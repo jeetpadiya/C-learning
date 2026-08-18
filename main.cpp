@@ -1,8 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "C++ Toolchain functional." << std::endl;
-    auto result = (10 < 20) > 30;
-    std::cout << result << std::endl;
-    return 0;
+    int sum =10;
+   cout << sum;
 }
